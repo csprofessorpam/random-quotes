@@ -1,0 +1,19 @@
+.homepage-container{
+    background-color:azure;
+    width: 80%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+}
+
+.homepage-container button{
+    background-color:blue;
+    color: white;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    padding: 10px;
+    width: 80%;
+}
